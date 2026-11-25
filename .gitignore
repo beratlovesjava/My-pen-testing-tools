@@ -1,0 +1,7 @@
+.venv/
+build/
+dist/
+*.deb
+*.spec
+.idea/
+zphisher/
